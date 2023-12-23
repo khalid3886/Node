@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "username": "bob_jones",
+      "email": "bob.jones@example.com",
+      "age": 35,
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "username": "alice_walker",
+      "email": "alice.walker@example.com",
+      "age": 28,
+      "isActive": true
+    }
+  ]
+  
